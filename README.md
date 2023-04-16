@@ -1,5 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AguilaDavid&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+David+Diaz;I'm+21+years+old;I+study+Electrical+and+computer+engineering;Be+Welcome!+)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AguilaDavid&bg_color=ffffff&color=523cbe&line=3f3cdd&point=2511c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### Main skills:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="rails" width="30" height="30" style="max-width:100%;"></img>
