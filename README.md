@@ -1,5 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AguilaDavid&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+David+Diaz;I'm+21+years+old;I+study+Electrical+and+computer+engineering;Be+Welcome!+)
 
+### Summary about me:
+I am passionate about analog electronics, low-level programming, and robotics. My interest in analog electronics allows me to work with circuits and components, understanding how they interact to create innovative solutions. Low-level programming challenges me to optimize system performance and efficiency, immersing myself in the heart of technology. Additionally, robotics is my gateway to the future, enabling me to explore the interaction between machines and humans, and develop solutions that enhance our quality of life. My goal is to continue growing in these fields and contribute to technological advancement, designing devices that have a positive impact on our society. I always seek to learn and stay updated with the latest trends and advancements in these areas, to continue challenging myself and reaching new horizons in my professional career. 
+
+#Electronics #LowLevelProgramming #Robotics #Technology #Innovation
+
 ### Main skills:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="rails" width="30" height="30" style="max-width:100%;"></img>
